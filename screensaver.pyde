@@ -1,6 +1,6 @@
 # Copyright (c) Chai Nunes
-FPS = 2
-PER_FRAME = 2
+FPS = 10
+PER_FRAME = 1
 B_DIFF = -30
 NUM_CIRCLES = 3
 
